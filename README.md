@@ -1,6 +1,7 @@
 # NgPaginationExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+This is an exercise project for creating a pagination using Angular's pipes and an interface to transform API's data feed.
 
 ## Development server
 
